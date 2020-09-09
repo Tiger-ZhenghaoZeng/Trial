@@ -1,3 +1,2 @@
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-
-echo "Live long and prosper"
+The plan is to devise an algorithm that displays
+the data effectively and elegantly.

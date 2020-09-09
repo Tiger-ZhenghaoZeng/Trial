@@ -22,12 +22,7 @@
   Clone the repository [[https://github.com/36-750/git-challenge]] onto your local
   machine with the =git clone= command. *Do not do this in your assignments
   repository!* Putting a git repository inside another git repository can lead to
-  confusing results. Put it in your =s750= directory:
-
-  #+BEGIN_SRC sh
-    cd ~/s750
-    git clone https://github.com/36-750/git-challenge.git
-  #+END_SRC
+  confusing results.
 
   Move into the =git-challenge= directory. Check the status of the repository with
   the =git status= command, and confirm that you are in the master branch.
@@ -69,7 +64,7 @@
       "abcgxyzuvw8"). This is the password for the PDF file.
 
 
-* Resources
+* Resources 
 
   + Inspecting Logs and Status: https://www.atlassian.com/git/tutorials/inspecting-a-repository
   + https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
